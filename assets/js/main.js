@@ -1,5 +1,6 @@
 // create the name to reflect
 var myName = "Let's party";
+var myParty = "Moringa Boys";
 
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
@@ -9,6 +10,7 @@ var purple = [280, 50, 60];
 var letterColors = [red, orange, green, blue, purple];
 
 drawName(myName, letterColors);
+drawName(myParty, letterColors)
 
 if(10 < 3)
 {
