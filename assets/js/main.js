@@ -1,3 +1,4 @@
+// create the name to reflect
 var myName = "Let's party";
 
 var red = [0, 100, 63];
